@@ -157,22 +157,22 @@ body {
 
 .slide-one {
   background: linear-gradient(to top, #0f2027, #203a4300, #2c536400),
-    url(https://images.unsplash.com/photo-1528143358888-6d3c7f67bd5d?auto=format&fit=crop&q=80&w=1000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fHN0cmVldCUyMG11c2ljaWFufGVufDB8fDB8fHww) no-repeat 50% 50% / cover;
+    url(hat.jpg) no-repeat 50% 50% / cover;
 }
 
 .slide-two {
   background: linear-gradient(to top, #0f2027, #203a4300, #2c536400),
-    url(https://cronkitenews.azpbs.org/wp-content/uploads/2022/12/Trumpet-Player-1200x800-1.jpg) no-repeat 50% 50% / cover;
+    url(sax.jpg) no-repeat 50% 50% / cover;
 }
 
 .slide-three {
   background: linear-gradient(to top, #0f2027, #203a4300, #2c536400),
-    url(https://media.istockphoto.com/id/451967679/photo/black-street-musician-playing-on-saxophone-in-the-evening.jpg?s=612x612&w=0&k=20&c=3_y2xHMogrlMu4P4dEORuSM3M0Vam7cvInBQa2TzSE4=) no-repeat 50% 50% / cover;
+    url(subway.jpg) no-repeat 50% 50% / cover;
 }
 
 .slide-four {
   background: linear-gradient(to top, #0f2027, #203a4300, #2c536400),
-    url(https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/fbe47323887327.5632a770721d1.jpg) no-repeat 50% 50% / cover;
+    url(trumpet.jpg) no-repeat 50% 50% / cover;
 }
 
 /* Responsive Design */
